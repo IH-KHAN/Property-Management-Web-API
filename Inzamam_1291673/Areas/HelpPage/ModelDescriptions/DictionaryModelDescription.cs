@@ -1,0 +1,6 @@
+namespace Inzamam_1291673.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
